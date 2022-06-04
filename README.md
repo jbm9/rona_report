@@ -1,6 +1,6 @@
 # Rona Report
 
-Please see [rona_report.ipynb], as it's the actual content of this repo.
+Please see [rona_report.ipynb](rona_report.ipynb), as it's the actual content of this repo.
 
 Author: Josh Myer <josh@joshisanerd.com>
 License: CC0
