@@ -1,9 +1,8 @@
-.skel
-=====
+# Rona Report
 
-This is a skeleton project.  It needs better documentation.
+Please see [rona_report.ipynb], as it's the actual content of this repo.
 
-Contents:
+Author: Josh Myer <josh@joshisanerd.com>
+License: CC0
+Date: 2022-06-04
 
-web/ -- An empty website for this thing
-code/ -- An empty directory for code for this thing
